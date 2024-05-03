@@ -35,7 +35,7 @@ Before submitting your suggestions, please review the [Contribution Guidelines](
 - [Netwrck.com](https://netwrck.com/) - Netwrck.com lets you chat with AI and create AI Characters.
 - [Text-Generator.io](https://text-generator.io) - Multimodal AI APIs for text and audio creation from text/images/speech.
 - [Yona.ai](https://yona.ai) - Converse with AI mirrors of yourself or loved ones for healing, nostalgia, and introspection.
-
+- [Sawal AI](https://sawalai.com)-Build custom AI chatbot using Sawal AI
 ### Custom interfaces
 
 ### Search engines
